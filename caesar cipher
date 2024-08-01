@@ -1,0 +1,16 @@
+##AIM:
+Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
+
+##Procedure:
+step 1:
+Start the python program.
+
+step 2:
+The program will display a menu with three option
+Caesar Cipher Algorithm
+1. Encrypt
+2. Decrypt
+3. Exit
+
+step 3:
+The program encrypts the message using the Caesar Cipher algorithm with the given shift value.
